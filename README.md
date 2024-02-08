@@ -7,9 +7,9 @@ I am driven by a passion for developing programming skills. Here's a little bit 
 
 ## Skills
 
-💻 [C Programming, C++, Ruby, Puppet, JavaScript, Python] 🚀
-- 🛠️ [Flasks and django]
-- 📚 [Full stack developer]
++ 💻 [C Programming, C++, Ruby, Puppet, JavaScript, Python] 🚀
++ 🛠️ [Flasks and django]
++ 📚 [Full stack developer]
 
 
 
