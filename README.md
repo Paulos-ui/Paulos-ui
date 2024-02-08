@@ -2,7 +2,7 @@
 
 
 I am driven by a passion for developing programming skills. Here's a little bit about me:
-
+![SE](Design_a_text__Software_engineer_in_tech_form.jpg)
 
 
 ## Skills
