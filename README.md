@@ -1,7 +1,7 @@
 # Hello, I'm Paul! 👋
 
 
-I'm with a passion for programming skills . Here's a little bit about me:
+I am driven by a passion for developing programming skills. Here's a little bit about me:
 
 
 
