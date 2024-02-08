@@ -4,7 +4,7 @@
 I am driven by a passion for developing programming skills. Here's a little bit about me:
 
 
-<img src="Tech.jpg" alt="SE" width="500" height="200">
+<img src="Tech.jpg" alt="SE" width="1000" height="700">
 
 ## Skills
 
