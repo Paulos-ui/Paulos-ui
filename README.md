@@ -2,8 +2,8 @@
 
 
 I am driven by a passion for developing programming skills. Here's a little bit about me:
-![SE](Tech.jpg)
 
+<img src="tech.jpg" alt="SE" width="500" height="200">
 
 ## Skills
 
