@@ -1,7 +1,7 @@
 # Hello, I'm Paul! 👋
 
 
-I am driven by a passion for developing programming skills. Here's a little bit about me:
+I have a strong passion for developing programming skills. Here's a little bit about me:
 
 
 <div style="text-align:center;">
