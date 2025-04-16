@@ -5,7 +5,7 @@ I'm a passionate **Software Engineer**, now expanding into **Data Analysis** and
 ---
 
 <div style="text-align:center;">
-    <img src="Tech.jpeg" alt="SE" width="700" height="300">
+    <img src="Tech.jpeg" alt="SE" width="700" height="250">
 </div>
 
 
